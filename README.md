@@ -1,1 +1,5 @@
-# NEW_-101236645_assignment2_frontend
+# NEW_-101236645_assignment2_frontend![FS_ADD](https://user-images.githubusercontent.com/74151231/146281494-7addccaa-7b91-4046-8246-5127d5fc0976.png)
+![FS_HOMEPAGEpng](https://user-images.githubusercontent.com/74151231/146281495-d500c07d-153e-4900-84e1-8fa07af581a4.png)
+![FS_VIEW](https://user-images.githubusercontent.com/74151231/146281496-31ff5daa-0200-4686-b231-c764ddc95f0b.png)
+![FS_UPDATE](https://user-images.githubusercontent.com/74151231/146281497-1cc0942a-29e7-4533-9aa1-e5a831fbcc4e.png)
+![FS_DELETE](https://user-images.githubusercontent.com/74151231/146281498-ce5f8742-f62a-43a5-a31c-6c7c5d5df102.png)
